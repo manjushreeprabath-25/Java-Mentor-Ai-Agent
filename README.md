@@ -45,5 +45,4 @@ src/
 - Progress tracking
 - LeetCode integration
 
-## Author
-Manjushree Prabath
+
