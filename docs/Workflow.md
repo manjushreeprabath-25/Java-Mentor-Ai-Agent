@@ -1,0 +1,46 @@
+# Workflow
+
+1. User opens the Java Mentor AI application.
+2. User asks a Java programming question using voice or text.
+3. ElevenLabs Conversational AI receives the user's input.
+4. The ElevenLabs MCP Server forwards the request to Cursor.
+5. Cursor processes the request using the Java Mentor AI prompt and logic.
+6. The AI generates a Java explanation, code solution, or debugging guidance.
+7. The response is sent back through the MCP Server.
+8. ElevenLabs converts the response into natural voice.
+9. The user receives the explanation and can continue the conversation.
+
++----------------------+
+|       User           |
++----------------------+
+           |
+           v
++----------------------+
+| ElevenLabs Voice AI  |
++----------------------+
+           |
+           v
++----------------------+
+| ElevenLabs MCP Server|
++----------------------+
+           |
+           v
++----------------------+
+|      Cursor IDE      |
++----------------------+
+           |
+           v
++----------------------+
+|   Java Mentor AI     |
++----------------------+
+           |
+           v
++----------------------+
+| Java Explanation /   |
+| Code / Debugging     |
++----------------------+
+           |
+           v
++----------------------+
+| Voice Response User  |
++----------------------+
