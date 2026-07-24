@@ -6,10 +6,8 @@ This folder contains all the documentation for the Java Mentor AI Agent project.
 ## Contents
 - Project architecture
 - Workflow diagram
-- Sequence diagram
-- Installation guide
-- User guide
-- Project report
+- System prompt
+- mcp-server
 - Screenshots
 
 ## Purpose
