@@ -45,4 +45,8 @@ src/
 - Progress tracking
 - LeetCode integration
 
+## Live Demo
 
+Try the Java Mentor AI Agent here:
+
+**Agent Link:** https://elevenlabs.io/app/talk-to?agent_id=agent_6301ky2h27qye6f9hq3dct32xgz9&branch_id=agtbrch_3201ky2h2bw0e1gb0w1e7s7bnb2h
