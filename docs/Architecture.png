@@ -1,0 +1,27 @@
+User
+                          │
+                          ▼
+        ElevenLabs Conversational AI
+          (Voice/Text Interaction)
+                          │
+                          ▼
+             ElevenLabs MCP Server
+                          │
+                          ▼
+              Claude Sonnet 4.5 (LLM)
+      (Java Reasoning & Code Generation)
+                          │
+                          ▼
+               Java Mentor AI Logic
+      • Java Concepts
+      • DSA Guidance
+      • Code Explanation
+      • Debugging
+      • Interview Preparation
+                          │
+                          ▼
+          ElevenLabs Voice Generation
+          (Natural Voice Response)
+                          │
+                          ▼
+                        User
