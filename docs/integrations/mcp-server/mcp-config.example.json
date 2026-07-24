@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "elevenlabs-mcp": {
+      "command": "python",
+      "args": [
+        "-m",
+        "elevenlabs_mcp",
+        "--api-key",
+        "YOUR_ELEVENLABS_API_KEY",
+        "--print"
+      ]
+    }
+  }
+}
