@@ -51,3 +51,15 @@ The Java Mentor AI Agent integrates Cursor IDE with the ElevenLabs Conversationa
 - Forwards requests to Cursor.
 - Returns the generated responses back to ElevenLabs for voice output.
 
+  ## Configuration
+
+Before running the MCP Server, copy `mcp-config.example.json` and replace:
+
+```
+YOUR_ELEVENLABS_API_KEY
+```
+
+with your own ElevenLabs API key.
+
+For security reasons, never commit your real API key to GitHub.
+
