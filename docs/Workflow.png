@@ -10,6 +10,7 @@
 8. ElevenLabs converts the response into natural voice.
 9. The user receives the explanation and can continue the conversation.
 
+
 +----------------------+
 |       User           |
 +----------------------+
@@ -26,7 +27,7 @@
            |
            v
 +----------------------+
-|      Cursor IDE      |
+|      Claude sonnet 4.5(primary llm)     |
 +----------------------+
            |
            v
